@@ -54,12 +54,12 @@ body {
   margin-top: 20px;
   background: #F2EF88;
   box-shadow: 0 0 20px rgba(242, 239, 136, 0.4);
-  width: 30%;
-  height: 30%;
+  width: 40%;
+  height: 40%;
   border-radius: 50%;
   position: relative;
   left: 35%;
-  top: 48%;
+  top: 28%;
   background-image: url(../img/boy.png);
   /*background-position: -25px 5px;*/
   background-size: 100%;
