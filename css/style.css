@@ -220,7 +220,8 @@ body {
           transition: all 0.4s cubic-bezier(0.54, 1.6, 0.5, 1);
 } 
 #switch {
-  width: 60px;
+  width: 120px;
+  height:60px;
   margin: 0 auto;
   border: 2px solid #DA8508;
   border-radius: 27px;
@@ -243,4 +244,5 @@ body {
 .switched #circle {
   margin-left: 55%;
   background: #e9e5d5;
+  
 }
