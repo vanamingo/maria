@@ -51,6 +51,9 @@ body {
   border-color: #e9e5d5;
 }
 .sun {
+
+
+
   margin-top: 20px;
   background: #F2EF88;
   box-shadow: 0 0 20px rgba(242, 239, 136, 0.4);
@@ -61,8 +64,10 @@ body {
   left: 35%;
   top: 28%;
   background-image: url(../img/boy.png);
-  /*background-position: -25px 5px;*/
-  background-size: 100%;
+        background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70%;
+  
 
   -webkit-animation: pulse 5s ease infinite alternate;
 	animation: pulse 5s ease infinite alternate;
